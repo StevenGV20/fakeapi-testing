@@ -556,44 +556,44 @@
   },
   "ordenesDespachoOsis": [
     {
-      "Item": "[     ]",
-      "N° PED": 24033736,
-      "Emision PED": "04/15/2024",
-      "N° OD": 24042441,
-      "Emision OD": "04/18/2024",
-      "Canal": "NACIONAL",
-      "Cliente": "20600890485 - MULTIPLASTIC EL LOBO E.I.R.L.",
-      "Estado": "No importado"
+     "item": 1,
+     "numeroPedido": 24033736,
+     "emisionPedido": "04\/15\/2024",
+     "numeroOrden": 24042441,
+     "emisionOrden": "04\/18\/2024",
+     "canal": "NACIONAL",
+     "cliente": "20600890485 - MULTIPLASTIC EL LOBO E.I.R.L.",
+     "estado": "No importado"
     },
     {
-      "Item": "[ X ]",
-      "N° PED": 24041875,
-      "Emision PED": "04/16/2024",
-      "N° OD": 24042620,
-      "Emision OD": "04/18/2024",
-      "Canal": "RETAIL",
-      "Cliente": "20112273922 - TIENDAS DEL MEJORAMIENTO DEL HOGAR S.A.",
-      "Estado": "No importado"
+     "item": 2,
+     "numeroPedido": 24041875,
+     "emisionPedido": "04\/16\/2024",
+     "numeroOrden": 24042620,
+     "emisionOrden": "04\/18\/2024",
+     "canal": "RETAIL",
+     "cliente": "20112273922 - TIENDAS DEL MEJORAMIENTO DEL HOGAR S.A.",
+     "estado": "No importado"
     },
     {
-      "Item": "[ X ]",
-      "N° PED": 24041876,
-      "Emision PED": "04/16/2024",
-      "N° OD": 24042621,
-      "Emision OD": "04/18/2024",
-      "Canal": "RETAIL",
-      "Cliente": "20112273922 - TIENDAS DEL MEJORAMIENTO DEL HOGAR S.A.",
-      "Estado": "No importado"
+     "item": 3,
+     "numeroPedido": 24041876,
+     "emisionPedido": "04\/16\/2024",
+     "numeroOrden": 24042621,
+     "emisionOrden": "04\/18\/2024",
+     "canal": "RETAIL",
+     "cliente": "20112273922 - TIENDAS DEL MEJORAMIENTO DEL HOGAR S.A.",
+     "estado": "No importado"
     },
     {
-      "Item": "[ M ]",
-      "N° PED": 24041877,
-      "Emision PED": "04/16/2024",
-      "N° OD": 24042622,
-      "Emision OD": "04/18/2024",
-      "Canal": "RETAIL",
-      "Cliente": "20112273922 - TIENDAS DEL MEJORAMIENTO DEL HOGAR S.A.",
-      "Estado": "Importado"
+     "item": 4,
+     "numeroPedido": 24041877,
+     "emisionPedido": "04\/16\/2024",
+     "numeroOrden": 24042622,
+     "emisionOrden": "04\/18\/2024",
+     "canal": "RETAIL",
+     "cliente": "20112273922 - TIENDAS DEL MEJORAMIENTO DEL HOGAR S.A.",
+     "estado": "Importado"
     }
-  ]
+   ]
 }
